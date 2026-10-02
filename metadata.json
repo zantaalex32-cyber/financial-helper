@@ -1,0 +1,6 @@
+{
+  "name": "PesaPlan",
+  "description": "Smart M-Pesa spending planner with automated SMS transaction parsing, category spending limits, proactive threshold alerts, and interactive financial trend charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
